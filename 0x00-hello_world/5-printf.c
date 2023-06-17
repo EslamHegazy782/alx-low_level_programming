@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main: entry point
+ * main -  entry point
  * Description: the first printf function
  * Return: Always 0 (sucess)
 */
