@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Main: entry point
+ * Main - entry point
  * Description: the size of some variables
  * Return: Always 0 (sucess)
 */
