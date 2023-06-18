@@ -4,7 +4,7 @@
  *
  * Description: A program for printing all letters in lowercase
  *
- * Return: Always 0 (Sucess)
+ * Return: Always 0 (sucess)
 */
 int main(void)
 {
